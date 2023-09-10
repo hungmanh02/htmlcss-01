@@ -137,6 +137,8 @@ a {
 
 .clients .images {
   display: flex;
+  align-items: center;
+  justify-content: center;
   justify-content: space-between;
   margin-top: 96px;
 }
@@ -514,6 +516,7 @@ a {
   width: 28px;
   height: 28px;
   border-radius: 3px;
+  background: #f9f9f9;
 }
 .footer .social-link:hover {
   background: #ebebeb;
